@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Quick kramdown demo"
-description: "A quick demo post to some kramdown features."
+title: "시연 및 발표 영상"
+description: "영상"
 categories: [demo]
 tags: [demo, jekyll]
 redirect_from:
