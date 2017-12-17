@@ -18,11 +18,7 @@ Rhino를 사용하여 모델링을 하였습니다.
 참고 자료는 https://www.youtube.com/watch?v=EGD4eHsa8Fo 입니다
 # Fenced Code Blocks
 
-~~~~~~~~~~~~
-~~~~~~~
-code with tildes
-~~~~~~~~
-~~~~~~~~~~~~~~~~~~
+![사진]()
 
 # Simple codeblock with long lines
 
