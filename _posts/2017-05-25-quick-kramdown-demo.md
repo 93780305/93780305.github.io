@@ -8,11 +8,6 @@ redirect_from:
   - /2017/05/25/
 ---
 
-> This is [kramdown][kramdown] formatting test page for [Simple Texture][Simple Texture] theme.
-
-* Kramdown table of contents
-{:toc .toc}
-
 # 영상자료
 
 클릭 : https://youtu.be/6qEnQoS94xo
