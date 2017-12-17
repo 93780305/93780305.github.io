@@ -2,7 +2,7 @@
 layout: post
 title: "Hello World!"
 description: "The first 'Hello world' post for Simple Texture theme."
-categories: [uncategorized]
+categories: [3D프린터를 이용한 디자인]
 tags: [random, jekyll]
 redirect_from:
   - /2013/04/22/
