@@ -18,53 +18,13 @@ Rhino를 사용하여 모델링을 하였습니다.
 참고 자료는 https://www.youtube.com/watch?v=EGD4eHsa8Fo 입니다
 # Fenced Code Blocks
 
-![사진]()
-
-# Simple codeblock with long lines
-
-    function myFunction() {
-        alert("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.");
-    }
-
-# Language of Code Blocks
-
-~~~ ruby
-def what?
-  42
-end
-~~~
-
-# Highlighted
-
-## External Gist
-
-<script src="https://gist.github.com/yizeng/9b871ad619e6dcdcc0545cac3101f361.js"></script>
-
-## Simple Highlight
-
-{% highlight ruby %}
-def foo
-  puts 'foo'
-end
-{% endhighlight %}
-
-## Highlight with long lines
-
-{% highlight c# %}
-public class Hello {
-    public static void Main() {
-        Console.WriteLine("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.");
-    }
-}
-{% endhighlight %}
-
-## Highlight with line numbers and long lines
-
-{% highlight javascript linenos=table %}
-function myFunction() {
-    alert("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.");
-}
-{% endhighlight %}
+![사진](93780305.github.io/KakaoTalk_2017-12-17-22-15-40_Photo_27.jpeg)
+![사진](93780305.github.io/KakaoTalk_2017-12-17-22-15-43_Photo_0.jpeg)
+![사진](93780305.github.io/KakaoTalk_2017-12-17-22-15-48_Photo_35.jpeg)
+![사진](93780305.github.io/KakaoTalk_2017-12-17-22-15-49_Photo_72.jpeg)
+![사진](93780305.github.io/KakaoTalk_2017-12-17-22-15-53_Photo_35.jpeg)
+![사진](93780305.github.io/KakaoTalk_2017-12-17-22-15-54_Photo_81.jpeg)
+![사진](93780305.github.io/KakaoTalk_2017-12-17-22-15-56_Photo_62.jpeg)
 
 [^1]: This is a footnote.
 
