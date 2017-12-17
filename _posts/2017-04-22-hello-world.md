@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "!"
+title: ""
 description: "The first 'Hello world' post for Simple Texture theme."
 categories: [3D프린터를이용한디자인]
 tags: [random, jekyll]
