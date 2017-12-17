@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "3D프린터를 이용한 디잔인 설계 및 "
-description: "A quick demo of Simple Texture theme's code highlighting features"
+title: "3D프린터를 이용한 디자인 설계 및 "
+description: "3D "
 categories: [demo]
 tags: [demo, jekyll]
 redirect_from:
