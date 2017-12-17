@@ -18,13 +18,13 @@ Rhino를 사용하여 모델링을 하였습니다.
 참고 자료는 https://www.youtube.com/watch?v=EGD4eHsa8Fo 입니다
 # 사진
 
-![사진](93780305.github.io/KakaoTalk_2017-12-17-22-15-40_Photo_27.jpeg)
-![사진](93780305.github.io/KakaoTalk_2017-12-17-22-15-43_Photo_0.jpeg)
-![사진](93780305.github.io/KakaoTalk_2017-12-17-22-15-48_Photo_35.jpeg)
-![사진](93780305.github.io/KakaoTalk_2017-12-17-22-15-49_Photo_72.jpeg)
-![사진](93780305.github.io/KakaoTalk_2017-12-17-22-15-53_Photo_35.jpeg)
-![사진](93780305.github.io/KakaoTalk_2017-12-17-22-15-54_Photo_81.jpeg)
-![사진](93780305.github.io/KakaoTalk_2017-12-17-22-15-56_Photo_62.jpeg)
+![사진](https://93780305.github.io/KakaoTalk_2017-12-17-22-15-40_Photo_27.jpeg)
+![사진](https://93780305.github.io/KakaoTalk_2017-12-17-22-15-43_Photo_0.jpeg)
+![사진](https://93780305.github.io/KakaoTalk_2017-12-17-22-15-48_Photo_35.jpeg)
+![사진](https://93780305.github.io/KakaoTalk_2017-12-17-22-15-49_Photo_72.jpeg)
+![사진](https://93780305.github.io/KakaoTalk_2017-12-17-22-15-53_Photo_35.jpeg)
+![사진](https://93780305.github.io/KakaoTalk_2017-12-17-22-15-54_Photo_81.jpeg)
+![사진](https://93780305.github.io/KakaoTalk_2017-12-17-22-15-56_Photo_62.jpeg)
 
 [^1]: This is a footnote.
 
