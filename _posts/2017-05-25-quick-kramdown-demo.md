@@ -18,9 +18,7 @@ redirect_from:
 클릭 : https://youtu.be/6qEnQoS94xo
 
 
-![smiley](https://kramdown.gettalong.org/overview.png)
 
-[^1]: This is a footnote.
 
 [kramdown]: https://kramdown.gettalong.org/
 [Simple Texture]: https://github.com/yizeng/jekyll-theme-simple-texture
