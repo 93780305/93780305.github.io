@@ -13,12 +13,9 @@ redirect_from:
 {:toc .toc}
 
 # 개요 
-
-This is a test for inline codeblocks like `C:/Ruby23-x64` or `SELECT  "offices".* FROM "offices" `
-
-Here is a literal `` ` `` backtick.
-And here is a Ruby code fragment `x = Class.new`{:.language-ruby}
-
+아래의 내용은 저희 조에서 3D프린팅을 사용하여 만든 창작물입니다.
+Rhino를 사용하여 모델링을 하였습니다.
+참고 자료는 https://www.youtube.com/watch?v=EGD4eHsa8Fo 입니다
 # Fenced Code Blocks
 
 ~~~~~~~~~~~~
